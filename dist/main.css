@@ -1,0 +1,34 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+html,body{
+    overflow: hidden;
+    background-color: #a1bcf7;
+}
+.webgl{
+    position : fixed;
+    top : 0;
+    left : 0;
+    outline: none;
+}
+.header{
+    position: fixed;
+    top : 0;
+    left : 0;
+    height: 500px;
+    width: 100%;
+}
+p{
+    position: relative;
+    top: 25px;
+    left: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    color : #210b42;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+/*# sourceMappingURL=main.css.map*/
